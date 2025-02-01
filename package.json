@@ -39,7 +39,7 @@
         "@11ty/eleventy-plugin-rss": "1.2.0",
         "@11ty/eleventy-plugin-syntaxhighlight": "5.0.0",
         "@babel/standalone": "7.24.6",
-        "decap-cms": "3.1.10",
+        "decap-cms": "3.6.1",
         "eleventy-plugin-fluid": "2.7.1",
         "infusion": "4.6.0",
         "prop-types": "15.8.1",
